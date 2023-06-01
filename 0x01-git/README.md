@@ -1,2 +1,2 @@
 My second readme file
-README pdate from github.com
+README update from github.com
